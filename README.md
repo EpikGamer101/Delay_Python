@@ -5,7 +5,7 @@ How to install (WINDOWS):
 
 Download the ZIP
 
-When it is finished downloading, copy the "delay" folder to:
+When it is finished downloading, copy the "delay" folder (Inside the delay master folder) to:
 
         [drivename]:/Python[version#]/Lib
         
